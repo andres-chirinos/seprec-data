@@ -1,0 +1,83 @@
+{
+    "finalizado": true,
+    "mensaje": "¡Registro(s) obtenido(s) con éxito!",
+    "datos": {
+        "estado": "ACTIVO",
+        "id": "426118",
+        "nit": "3464251011",
+        "matricula": "3464251011",
+        "matriculaAnterior": null,
+        "razonSocial": "\n    ALFREDO VILLCA QUISPE\n    ",
+        "codTipoUnidadEconomica": {
+            "id": 18,
+            "nombre": "EMPRESA UNIPERSONAL"
+        },
+        "mesCierreGestion": "4",
+        "ultimoAnioActualizacion": 2024,
+        "objetos_sociales": [
+            {
+                "objetoSocial": "Venta de comida"
+            }
+        ],
+        "codEstadoActualizacion": {
+            "id": 16,
+            "nombre": "MATRICULA RENOVADA"
+        },
+        "direccion": {
+            "id": "456954",
+            "nombreVia": "PANAMERICANA",
+            "numeroDomicilio": "SN",
+            "edificio": null,
+            "piso": "PLANTA BAJA",
+            "latitud": "-17.442721997064243",
+            "longitud": "-66.1633781890011",
+            "codDepartamento": {
+                "id": 421,
+                "nombre": "COCHABAMBA"
+            },
+            "codProvincia": {
+                "id": 458,
+                "nombre": "CERCADO (COCHABAMBA)"
+            },
+            "codMunicipio": {
+                "id": 684,
+                "nombre": "COCHABAMBA"
+            },
+            "codTipoVia": {
+                "nombre": "Avenida"
+            }
+        },
+        "contactos": [
+            {
+                "estado": "ACTIVO",
+                "id": "695617",
+                "tipoContacto": "TELEFONO",
+                "descripcion": [
+                    {
+                        "tipo": "Telefono 1",
+                        "numero": "69544001"
+                    },
+                    {
+                        "tipo": "Telefono 2"
+                    },
+                    {
+                        "tipo": "telefono 3"
+                    }
+                ],
+                "persona": null
+            },
+            {
+                "estado": "ACTIVO",
+                "id": "695618",
+                "tipoContacto": "CORREO",
+                "descripcion": [
+                    {
+                        "tipo": "principal",
+                        "correo": "lapacenitaoriginal@gmail.com"
+                    }
+                ],
+                "persona": null
+            }
+        ]
+    }
+}
